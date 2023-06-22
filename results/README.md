@@ -29,6 +29,12 @@ Results of the participants in the Subtask 1.
 |:--:| 
 | *F1 per class (Spanish)* |
 
+## F1 per model
+
+| ![F1 per class (English)](figures/subtask_1_modelwise_boxplots.png) | 
+|:--:| 
+| *F1 per model (English top, Spanish bottom)* |
+
 ## Macro-F1 per domain
 | ![Macro-F1 per domain (English)](figures/subtask_1_en_boxplot_mf1_domains.png) | 
 |:--:| 
@@ -46,7 +52,7 @@ Results of the participants in the Subtask 1.
 
 ## Median confusion matrix
 
-![Median confusion matrix](figures/subtask_1_confusion_matrix.png)
+![Median confusion matrix](figures/subtask_1_median_confusion.png)
 
 ## Examples
 
@@ -104,8 +110,7 @@ Results of the participants in the Subtask 2.
 
 ## Median confusion matrix
 
-
-![Median confusion matrix](figures/subtask_2_confusion_matrix.png)
+![Median confusion matrix](figures/subtask_2_median_confusion.png)
                            
 ## Ranking
 
