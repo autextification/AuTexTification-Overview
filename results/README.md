@@ -66,10 +66,6 @@ Results of the participants in the Subtask 1.
 
 The full ranking is available in: https://sites.google.com/view/autextification/results
 
-## Error analysis
-
-We performed error analysis based on readability, linguistic, and semantic features. The report can be found [here](https://docs.google.com/document/d/1IYnAmoGgKCHQSvNMYaPzunEnTzaAPFmaM0qSdZPC8RQ/edit?usp=sharing).
-
 # Subtask 2
 
 Results of the participants in the Subtask 2.
